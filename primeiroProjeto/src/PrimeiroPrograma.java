@@ -10,6 +10,9 @@ public class PrimeiroPrograma {
         float nota3;
         float nota4;
 
+
+        System.out.println();
+
         System.out.println("Digite a 1ª nota: ");
         nota1 = scan.nextFloat();
 
