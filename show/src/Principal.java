@@ -6,5 +6,3 @@ public class Principal {
         System.out.println(show.artista.nome);
     }
 }
-
-

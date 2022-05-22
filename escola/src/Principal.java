@@ -54,6 +54,6 @@ public class Principal {
 
         disciplina.professor = professor;
 
-        
+
     }
 }

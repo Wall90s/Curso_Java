@@ -9,6 +9,6 @@ public class Emissora {
                 programaTemporario = listaDeProgramas[i];
             }
         }
-        System.out.println("O programa com maior audiência é: " + programaTemporario.nome);
+        System.out.println("O programa com maior audiência é: " + programaTemporario);
     }
 }
