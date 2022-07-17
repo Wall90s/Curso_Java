@@ -6,9 +6,4 @@ public class Matematica {
         double hipotenusa = Math.sqrt(somaQuadradoCatetos);
         return hipotenusa;
     }
-
-    public static void main(String[] args) {
-        System.out.println("Hipotenusa: " + calcularHipotenusa(3.0, 4.0));
-    }
-
 }
